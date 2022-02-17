@@ -33,4 +33,4 @@
     
   </div>
  
-! [Snake animation] (https://github.com/leticiapbrs/)
+![Snake animation](https://github.com/leticiapbrs/leticiapbrs/blob/output/github-contribuition-grid-snake.svg)
