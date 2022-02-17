@@ -33,4 +33,4 @@
     
   </div>
  
-![Snake animation](https://github.com/leticiapbrs/leticiapbrs/blob/main/.github/workflows/snake.yml)
+![Snake animation](https://github.com/leticiapbrs/leticiapbrs/blob/output/github-contribution-grid-snake.svg)
