@@ -7,8 +7,8 @@
 <br>
 <div>
   <a href="https://github.com/leticiapbrs/leticiapbrs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiapbrs&show_icons=true&theme=graywhite" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapbrs&layout=compact&theme=graywhite" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leticiapbrs&show_icons=true&theme=graywhite" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapbrs&layout=compact&theme=graywhite" />
  </div>
  
   #
