@@ -15,11 +15,11 @@
   <div>
     <img align="center" al="lepbrs-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50px height=50px />
     <img align="center" al="lepbrs-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px height=50px />
-    <img align="center" al="lepbrs-java"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50px height=50px />
+    <img align="center" al="lepbrs-vuejs"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width=50px height=50px />
     <img align="center" al="lepbrs-javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px height=50px />
-    <img align="center" al="lepbrs-php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width=60px height=60px />
+    <img align="center" al="lepbrs-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=60px height=60px />
     <img align="center" al="lepbrs-python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50px height=50px />
-    <img align="center" al="lepbrs-c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=50px height=50px />
+    <img align="center" al="lepbrs-angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=50px height=50px />
     <img align="right" al="lepbrs-gif" src="https://i.picasion.com/pic92/426e8bec450e7fc8367d36aca50de393.gif" width="250" height="250" border="0" /></a> 
   </div>
 
